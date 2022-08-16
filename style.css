@@ -77,6 +77,10 @@ nav {
     width: 589px;
 }
 
+.sec7-flex{
+	margin-inline:auto;
+}
+
 .nav-btn {
     display: flex;
     align-items: center;
